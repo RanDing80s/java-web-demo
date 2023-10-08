@@ -10,5 +10,8 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <a href="foo-servlet"> DEMO </a>
+<div>
+    <a href="member/login-servlet">登录</a>
+</div>
 </body>
 </html>
